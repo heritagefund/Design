@@ -1,2 +1,2 @@
-# design
-Design - National Lottery Heritage Fund
+# Design
+National Lottery Heritage Fund
