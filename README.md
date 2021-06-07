@@ -1,9 +1,9 @@
 # Design System (WIP)
-National Lottery Heritage Fund
+The National Lottery Heritage Fund
 
 Build consistent, accessible user interfaces. Learn from the research and experience with users.
 
-Use these design styles, components and patterns to quickly make prototypes or build a live service
+Use these design styles, components and patterns to quickly make prototypes or build a live service.
 
 <hr>
 
